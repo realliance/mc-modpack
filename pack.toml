@@ -1,13 +1,16 @@
 name = "packwiz Example Pack"
-author = "comp500"
+author = "Realmic"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29bcf953b90081730cd8a32cc4d855ab6ad96685c3aeea6ed033dc4f04d390ac"
+hash = "ba635f03c38cdbc88c901270920601abad097967d649d4d41b01c8b019dabf64"
 
 [versions]
-minecraft = "1.19"
-quilt = "0.17.0"
+minecraft = "1.20"
+quilt = "0.22.0"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4"]

@@ -1,0 +1,13 @@
+name = "Deep Mob Learning: Refabricated"
+filename = "deepmoblearning-refabricated-0.5.15-BETA+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc35e2a99e6ab5058dc403d3ffbe4435415f3542"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4857532
+project-id = 398614

@@ -5,11 +5,150 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "de82b1dbf0023f4aae1db1fa69eda866a30f0afa57e16832d1ba8c504804d3a6"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "120a6b04ff1396cc62a3a2a391d4e6ee8663fe3ad09074b83718dbe90d5ee596"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "67c0bda3a8e0b6be665d2d566bca4523c902f655e7b6c94cacb42506ee8d1026"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "8a201eb9728ba43871832e3d7a094d90b952fa7437d5950b624be8e82e818375"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "5c77827ed3d6f0553faeae1aa8fb42bdcd30ffdc8db9768c291448ed01d6a702"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
+metafile = true
+
+[[files]]
+file = "mods/deep-mob-learning-refabricated.pw.toml"
+hash = "89ebe750b93154ef0275b788a79fad3dc2ff7cc6cd86f587ac20f4422415edd4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ca4c66e6e0c96f139fb996915277a0a417a55fc5ffa8810d0aaa5dd07080399c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e394b1a364551e504f32e65bf1ad6bd5a17b0250d4715c7bf4955840fe2d398b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "d6eef51cc3499820a2e3880bad07d3c99b1e2bf32a26a820a124ed50ad700563"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "12fb84bde9aa6f851de0bde8a81e79e41b8cb6186b2f855be72ac241dbcddf3f"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "af49ad1f36fb92873b79e504092147d7073e433685ff2e3353003363ffd04e7c"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "37cfb5c08980d53eb709109131817836c7251e43d636efe26a9d135c9f8d1090"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "57af1c9e139a9e57de74e7284c43226dff128d34747efba7edba4a0c4b189434"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "45e5ea752ccc582f4218eaf727dca0663c0c2c554dac838e7b15cffd2a98fe4e"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7c755b4c6fd58f9481f8fd54b69cb930cfaf34da5516f2d84ae56e8c77552d5c"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "07ab85673fd642f1270bd8ce16547104fd4c34c0f05d245d2735fb4ce5737edc"
 metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard-fabric.pw.toml"
 hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
 metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "8f37000a828751e5e5b21467cf2e56c0be21e67fe5958ee54915fb32becace4a"
