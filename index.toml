@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "de82b1dbf0023f4aae1db1fa69eda866a30f0afa57e16832d1ba8c504804d3a6"
 metafile = true
