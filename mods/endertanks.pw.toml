@@ -1,0 +1,13 @@
+name = "EnderTanks"
+filename = "endertanks-fabric-1.20.2-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zZwEA08D/versions/DhByWDbi/endertanks-fabric-1.20.2-1.2.jar"
+hash-format = "sha1"
+hash = "52d5e2a99d1ac0ce100d923e7444ed32cfdc12e9"
+
+[update]
+[update.modrinth]
+mod-id = "zZwEA08D"
+version = "DhByWDbi"

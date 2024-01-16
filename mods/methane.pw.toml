@@ -1,0 +1,13 @@
+name = "Methane"
+filename = "Methane 2.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pkI4SefA/versions/a9byOIPF/Methane%202.5.0.jar"
+hash-format = "sha1"
+hash = "a736e8feb63328f5b0b2e12f80613d4bbbb64d70"
+
+[update]
+[update.modrinth]
+mod-id = "pkI4SefA"
+version = "a9byOIPF"
