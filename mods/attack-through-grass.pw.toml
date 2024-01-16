@@ -1,0 +1,13 @@
+name = "Attack Through Grass"
+filename = "attack_through_grass-1.0.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OKM2WWl3/versions/QMsV1RGr/attack_through_grass-1.0.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "5d6a8dc91e627033cbe1390874546a3c8aba98f3"
+
+[update]
+[update.modrinth]
+mod-id = "OKM2WWl3"
+version = "QMsV1RGr"

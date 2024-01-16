@@ -1,13 +1,13 @@
 name = "Nvidium"
-filename = "nvidium-0.1.15-alpha.jar"
+filename = "nvidium-0.2.5-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/WJV4pTzp/nvidium-0.1.15-alpha.jar"
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/UO1crPGk/nvidium-0.2.5-beta.jar"
 hash-format = "sha1"
-hash = "50ae8447dd0602936bd431ed70a81b1211bc2753"
+hash = "22eca32e64303bfe04187b6aa09a947fdea04785"
 
 [update]
 [update.modrinth]
 mod-id = "SfMw2IZN"
-version = "WJV4pTzp"
+version = "UO1crPGk"
