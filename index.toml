@@ -5,6 +5,11 @@ file = "Justfile"
 hash = "1eaa4107fec22fb75337f3d837534c9bbd082bdb8fcf73d6e17a2bb7b60a90f9"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "de82b1dbf0023f4aae1db1fa69eda866a30f0afa57e16832d1ba8c504804d3a6"
 metafile = true
@@ -12,6 +17,11 @@ metafile = true
 [[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
@@ -37,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
 metafile = true
 
 [[files]]
@@ -380,6 +395,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/not-just-biomes.pw.toml"
+hash = "3b24db02cf079be2f8e3c0111a17ad9837a7f4e34d45eb4c14f89cb16f1765bb"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "3ec6010e6922154637aa19d6523853262ff1eaff9cc8eaca10d800932139ad9e"
 metafile = true
@@ -415,6 +435,11 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "2776f4939eaec939c86063aa7111a6d0382061b4d3a2c60a6b26fe3ac6695a78"
+metafile = true
+
+[[files]]
 file = "mods/railoptimization.pw.toml"
 hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
 metafile = true
@@ -435,6 +460,21 @@ hash = "dcb97552f92c7b5c6fb6a8f403617bf30336829b482627fa2f3abeaf8bfb86e6"
 metafile = true
 
 [[files]]
+file = "mods/simply-skills.pw.toml"
+hash = "ea4875a723473ec73ade5d1b147044a51c3e9c2a7f02e0d07fcdd1c87245455c"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "481554a4e059cda1be174d3942f0c0f0d7158fc8fc985ee332ccc4e2c74894b7"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "b7aa073b4154b29b8383810f7a780e48ace423aef116d6af9cd51e0152fd6f38"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
@@ -447,6 +487,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "3aa7821abddca3c5facb1e9bb57883ffd6be56f24aa27f61ac61ad111b9c870a"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
 metafile = true
 
 [[files]]
@@ -465,8 +515,8 @@ hash = "fcf980af1c928db04d2defb115a8a6d582c2e7da69fbb7f9b8324dab44a95613"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
+file = "mods/tectonic.pw.toml"
+hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
 metafile = true
 
 [[files]]
