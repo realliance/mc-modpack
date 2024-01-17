@@ -1,0 +1,13 @@
+name = "Configured"
+filename = "Configurable-mc1.20.1-v1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HlpEBg3R/versions/DsiTwBzg/Configurable-mc1.20.1-v1.2.0.jar"
+hash-format = "sha1"
+hash = "2792e2c3759b8bb8bf3b68ac119899852aa41d70"
+
+[update]
+[update.modrinth]
+mod-id = "HlpEBg3R"
+version = "DsiTwBzg"
