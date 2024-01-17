@@ -5,6 +5,10 @@ file = "Justfile"
 hash = "1eaa4107fec22fb75337f3d837534c9bbd082bdb8fcf73d6e17a2bb7b60a90f9"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "ca8bfde2dc7313fd2b06a0f4b04a6e9536773c33439f3df64dfafb555ec3eeb7"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
@@ -17,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
 
 [[files]]
