@@ -27,4 +27,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: modrinth-export
-          path: ./"Realliance Community-0.0.0.mrpack"
+          path: Realliance Community-0.0.0.mrpack
