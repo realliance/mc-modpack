@@ -20,7 +20,5 @@ jobs:
       - name: Export Modpack
         uses: rrbutani/use-nix-shell-action@v1
         with:
-          devShell: .#
-          exportEnv: false
           script: |
             packwiz mr export
