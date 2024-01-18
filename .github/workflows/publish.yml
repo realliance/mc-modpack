@@ -17,9 +17,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - uses: cachix/install-nix-action@v18
-        with:
-          nix_path: nixpkgs=channel:nixos-stable
       - name: Export Modpack
         uses: rrbutani/use-nix-shell-action@v1
         with:
