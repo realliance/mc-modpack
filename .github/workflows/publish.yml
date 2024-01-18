@@ -15,11 +15,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Nix Shell
-        uses: rrbutani/use-nix-shell-action@v1
+      - uses: actions/checkout@v3
+      - uses: rrbutani/use-nix-shell-action@v1
         with:
           file: shell.nix
+      - name: Set Version to 0.0.0 for Artifact
+        run: deno run -A mod.ts reset
       - name: Export Modpack
         run: packwiz mr export
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: modrinth-export
+          path: ./"Realliance Community-0.0.0.mrpack"
