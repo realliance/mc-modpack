@@ -17,9 +17,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Export Modpack
+      - name: Nix Shell
         uses: rrbutani/use-nix-shell-action@v1
         with:
           file: shell.nix
-          script: |
-            packwiz mr export
+      - name: Export Modpack
+        run: packwiz mr export
