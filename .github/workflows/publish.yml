@@ -18,8 +18,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Export Modpack
-        exportEnv: false
         uses: rrbutani/use-nix-shell-action@v1
         with:
+          exportEnv: false
           script: |
             packwiz mr export
