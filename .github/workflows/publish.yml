@@ -21,8 +21,8 @@ jobs:
         with:
           nix_path: nixpkgs=channel:nixos-stable
       - name: Export Modpack
-        uses: workflow/nix-shell-action@v3
+        uses: rrbutani/use-nix-shell-action@v1
         with:
-          flakes: .#
+          file: shell.nix
           script: |
             packwiz mr export
