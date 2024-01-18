@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/publish.yml"
+hash = "1ca127d32192010d864866ff27574c4593b26ae7b9779861a146570479e8e1a3"
+
+[[files]]
+file = ".vscode/extensions.json"
+hash = "d3d869b6731889792b71830393a1cd70b1d92eff6bfdd28e84d4fbb474550ad6"
+
+[[files]]
+file = ".vscode/settings.json"
+hash = "5530433282bed1fae6e11f227361275dcba7264080ee62a3cf0e8b6cd0443f03"
+
+[[files]]
 file = "Justfile"
 hash = "1eaa4107fec22fb75337f3d837534c9bbd082bdb8fcf73d6e17a2bb7b60a90f9"
 
 [[files]]
+file = "LICENSE"
+hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
+
+[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "ca8bfde2dc7313fd2b06a0f4b04a6e9536773c33439f3df64dfafb555ec3eeb7"
+
+[[files]]
+file = "mod.ts"
+hash = "3bbfd9f5dce6e615377fd3e05f44123bb0c492ca0b6986ffb9b5c009233883e8"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -580,4 +600,4 @@ metafile = true
 
 [[files]]
 file = "shell.nix"
-hash = "f763ca2194d631fda4e1f7e6e9b87b09a5533ac8d629c23d426749f0b5aabc84"
+hash = "007f7e120d90af26ff24a148f113d0501772171f5382081c20a5cd2f601bc786"

@@ -13,6 +13,13 @@ on:
 
 jobs:
   build:
+    strategy:
+      matrix:
+        include:
+          - platform: modrinth
+            fileFormat: mrpack
+          - platform: curseforge
+            fileFormat: zip
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -22,9 +29,9 @@ jobs:
       - name: Set Version to 0.0.0 for Artifact
         run: deno run -A mod.ts reset
       - name: Export Modpack
-        run: packwiz mr export
+        run: packwiz ${{ matrix.platform }} export
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: modrinth-export
-          path: Realliance Community-0.0.0.mrpack
+          name: ${{ matrix.platform }}-export
+          path: Realliance Community-0.0.0.${{ matrix.fileFormat }}
