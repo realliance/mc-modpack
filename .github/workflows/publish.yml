@@ -19,8 +19,10 @@ jobs:
         include:
           - platform: modrinth
             fileFormat: mrpack
+            mime: application/x-modrinth-modpack+zip
           - platform: curseforge
             fileFormat: zip
+            mime: application/zip
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -43,7 +45,7 @@ jobs:
         if: github.event_name == 'release'
         uses: JasonEtco/upload-to-release@master
         with:
-          args: ${{ matrix.platform }}-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}
+          args: ./${{ matrix.platform }}-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }} ${{ matrix.mime }}
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
   publish-modrinth:
