@@ -61,7 +61,7 @@ jobs:
       - name: Generate Changelog File
         run: echo "${{ github.event.release.body }}" > CHANGELOG.release.md
       - name: Publish to Modrinth
-        uses: Kir-Antipov/mc-publish@v3.2
+        uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: realliance-community
           modrinth-token: "${{ secrets.MODRINTH_TOKEN }}"
