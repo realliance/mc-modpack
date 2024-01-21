@@ -58,11 +58,16 @@ jobs:
           name: modrinth-export
       - name: List Artifact
         run: ls -R
-      - name: Upload to Modrinth
-        uses: cloudnode-pro/modrinth-publish@1.0.0
+      - name: Generate Changelog File
+        run: echo "${{ github.event.release.body }}" > CHANGELOG.release.md
+      - name: Publish to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.2
         with:
-          token: "${{ secrets.MODRINTH_TOKEN }}"
-          project: realliance-community
-          file: modrinth-${{ github.event.release.tag_name || '0.0.0' }}.mrpack
-          changelog: "${{ github.event.release.body }}"
-          loaders: "fabric"
+          modrinth-id: realliance-community
+          modrinth-token: "${{ secrets.MODRINTH_TOKEN }}"
+          loaders: fabric
+          game-versions: "1.20.1"
+          changelog-file: CHANGELOG.release.md
+          files: "*.mrpack"
+          version: ${{ github.event.release.tag_name }}
+          version-type: release
