@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "f8f1faad56cacfd8d5df73fd3daeb044d8d81cf88f41a541f798a32c7a92d900"
+hash = "92a26ba7bf0ed8ed03aa97486f561aa8a155e660936cbba76718c8437eed2359"
 
 [[files]]
 file = ".vscode/extensions.json"
@@ -13,20 +13,48 @@ file = ".vscode/settings.json"
 hash = "5530433282bed1fae6e11f227361275dcba7264080ee62a3cf0e8b6cd0443f03"
 
 [[files]]
-file = "Justfile"
-hash = "a4ff74c39b288224ca83ee6c891e9b50597820d727560a96a463a9bd34684ede"
-
-[[files]]
 file = "LICENSE"
 hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "eb9790d924c627d497657913298ff16a3c47cbf7defe9b8b25b6c9a48ead4c9e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "ca8bfde2dc7313fd2b06a0f4b04a6e9536773c33439f3df64dfafb555ec3eeb7"
 
 [[files]]
-file = "mod.ts"
-hash = "3bbfd9f5dce6e615377fd3e05f44123bb0c492ca0b6986ffb9b5c009233883e8"
+file = "icon.png"
+hash = "7e520af4c91d763d244497fc201cd0ae1e2c0c950940ad9a0a41274514439248"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "48653b3d8014302dbd4d01250460e68e84c6bec8692710123a13acc969102077"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "0d3fd0a9db10ca1f3c6dc3e2ef5751857949d7ceb8b8ec2ef2378cf971bda47b"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "e2b0f3caa522cf8c4f40fb3922c2b207a185c34e4b5c30c0ae28bfc090863423"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -369,6 +397,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "62fe935015220fde5fa84833905a0a7704821e7154f1ef733cb8a2beb8371304"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -401,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
@@ -556,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
@@ -764,5 +807,10 @@ hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
-file = "shell.nix"
-hash = "007f7e120d90af26ff24a148f113d0501772171f5382081c20a5cd2f601bc786"
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "b92eff4c9b9ddfa65f75fcada278e9782ba9c773e0fb9f690b6ad4cec4c28bd0"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "d36b2ada9159d8059531b72dd503d014e554f15b9e7a332f74f076ee420b31d4"
