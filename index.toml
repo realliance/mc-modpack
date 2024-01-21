@@ -14,7 +14,7 @@ hash = "5530433282bed1fae6e11f227361275dcba7264080ee62a3cf0e8b6cd0443f03"
 
 [[files]]
 file = "Justfile"
-hash = "7559e890b2c81a06d6ae12311ceb31a02aad6b7f8b317297aa84dddfedf7b7bd"
+hash = "ae2d1fdfd0e4a64b53edf4b567f7935b662f5542054e84b76d657b7cc740dfb8"
 
 [[files]]
 file = "LICENSE"
@@ -349,11 +349,6 @@ hash = "f722ea0372d2459a35504422fb4f42945ca7fbcbdaebf0a1feb9d5d276144901"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -510,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "2776f4939eaec939c86063aa7111a6d0382061b4d3a2c60a6b26fe3ac6695a78"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -675,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
+hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
 
 [[files]]
