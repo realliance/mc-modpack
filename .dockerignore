@@ -1,0 +1,8 @@
+.github
+.vscode
+Justfile
+mod.ts
+*.zip
+*.mrpack
+README.md
+*.nix
