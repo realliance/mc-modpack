@@ -1,0 +1,13 @@
+name = "Wither Cage Fix"
+filename = "wither-cage-fix-1.0.18+MC1.20-1.20.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8tiZuCBJ/versions/rtFhvprI/wither-cage-fix-1.0.18%2BMC1.20-1.20.2.jar"
+hash-format = "sha1"
+hash = "ea2e5fe8c3bd335e2f529989c86ca135362d06e5"
+
+[update]
+[update.modrinth]
+mod-id = "8tiZuCBJ"
+version = "rtFhvprI"

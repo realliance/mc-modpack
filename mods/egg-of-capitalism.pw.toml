@@ -1,0 +1,13 @@
+name = "Egg Of Capitalism"
+filename = "egg-of-capitalism-mc1.20-4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/llThBwQo/versions/eHqlCCvB/egg-of-capitalism-mc1.20-4.0.jar"
+hash-format = "sha1"
+hash = "88df5bad2f940fb6f943ee522a16a6e92d8e15d4"
+
+[update]
+[update.modrinth]
+mod-id = "llThBwQo"
+version = "eHqlCCvB"
