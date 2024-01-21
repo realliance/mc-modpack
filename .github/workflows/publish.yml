@@ -36,11 +36,14 @@ jobs:
         with:
           name: ${{ matrix.platform }}-export
           path: Realliance Community-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}
+      - name: Rename to Release-Friendly Name
+        if: github.event_name == 'release'
+        run: mv "Realliance Community-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}" "${{ matrix.platform }}-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}"
       - name: Upload to Release
         if: github.event_name == 'release'
         uses: JasonEtco/upload-to-release@master
         with:
-          args: "Realliance Community-${{ github.event.release.tag_name }}.${{ matrix.fileFormat }}"
+          args: ${{ matrix.platform }}-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
   publish-modrinth:
