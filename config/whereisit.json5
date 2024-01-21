@@ -1,0 +1,19 @@
+{
+	client: null,
+	common: {
+		search_range_blocks: 8,
+		do_nested_search: true,
+		command_aliases: [
+			"whereis"
+		],
+		fadeout_time_ticks: 300,
+		debug: {
+			enable_default_searchers: true,
+			print_search_time: false,
+			force_server_side_highlights_only: false
+		}
+	},
+	server: {
+		rate_limit: true
+	}
+}

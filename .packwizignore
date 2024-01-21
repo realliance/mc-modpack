@@ -9,3 +9,5 @@
 Justfile
 shell.nix
 mod.ts
+.github
+.vscode
