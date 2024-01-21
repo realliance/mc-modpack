@@ -149,6 +149,11 @@ hash = "6b216138f5c7afa9a326e9677b8f29c5e9c39e799b693da86ac5e53306c25623"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
@@ -159,6 +164,11 @@ hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
@@ -166,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
+file = "mods/ctov-create-structures.pw.toml"
+hash = "ced88c2b170469d097b3fad5204b5fe29445f99d639d91afbd07f1d0e424b424"
 metafile = true
 
 [[files]]
@@ -186,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/deep-mob-learning-refabricated.pw.toml"
 hash = "89ebe750b93154ef0275b788a79fad3dc2ff7cc6cd86f587ac20f4422415edd4"
-metafile = true
-
-[[files]]
-file = "mods/diamond-economy.pw.toml"
-hash = "a635f9a77a1b3ea048ce120a89363bfa31ab8a355fd8f088135204f8e38da86b"
 metafile = true
 
 [[files]]
@@ -286,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "218e90890e951c0d0b42a56b29c46baf11a391cdbf3ae4af65287f6720d324a1"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "1c78d7d447b17c0abff1243a0140f5f1a86a83c67042b1befe3b1dc446ebb782"
 metafile = true
 
 [[files]]
@@ -414,6 +429,11 @@ hash = "e0586a6d5278a38714dc4381ea0974fb100227ae19c8e6bb3e39bc844588e5f1"
 metafile = true
 
 [[files]]
+file = "mods/missions.pw.toml"
+hash = "82b8734892581a62c2c07da3174c57a264b768781b269ddd7a9ae026ef67de60"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -519,6 +539,16 @@ hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "fe4278916c7a5453dedeb4361817489ae9084bb0f2abba44b5164ec3293a491b"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
@@ -596,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
