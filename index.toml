@@ -14,7 +14,7 @@ hash = "5530433282bed1fae6e11f227361275dcba7264080ee62a3cf0e8b6cd0443f03"
 
 [[files]]
 file = "Justfile"
-hash = "ae2d1fdfd0e4a64b53edf4b567f7935b662f5542054e84b76d657b7cc740dfb8"
+hash = "a4ff74c39b288224ca83ee6c891e9b50597820d727560a96a463a9bd34684ede"
 
 [[files]]
 file = "LICENSE"
@@ -89,11 +89,6 @@ hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "67c0bda3a8e0b6be665d2d566bca4523c902f655e7b6c94cacb42506ee8d1026"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "c4ee3c1cd7ce65505a5aa2b2e66ed816dfde972e8af736e211314ba66d40a01a"
 metafile = true
@@ -110,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
+hash = "3d6aab479766974055bd900494089d32d38501b2296f5ad11659c326d2207147"
 metafile = true
 
 [[files]]
@@ -139,11 +134,6 @@ hash = "171297714b2fdf90eaed2001a5aeedae87b40aac045e4a53ecc4a741a1bb2579"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "0c01b6152bfc3e9a2bf94418722ebe4823323fc14dd19eee9ac16c22e2ab2376"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
@@ -151,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "e24fbc86c302698f5337624a4272b58e8b29954cc114c76dbfeed28ed55e8005"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "6b216138f5c7afa9a326e9677b8f29c5e9c39e799b693da86ac5e53306c25623"
 metafile = true
 
 [[files]]
@@ -264,6 +259,11 @@ hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
@@ -349,6 +349,11 @@ hash = "f722ea0372d2459a35504422fb4f42945ca7fbcbdaebf0a1feb9d5d276144901"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -409,6 +414,11 @@ hash = "e0586a6d5278a38714dc4381ea0974fb100227ae19c8e6bb3e39bc844588e5f1"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "760f3597f8909bf7801717f8a5f6144cb1b691f10b92343bf8f44aec9c1ddbe5"
 metafile = true
@@ -461,11 +471,6 @@ metafile = true
 [[files]]
 file = "mods/not-just-biomes.pw.toml"
 hash = "3b24db02cf079be2f8e3c0111a17ad9837a7f4e34d45eb4c14f89cb16f1765bb"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
 metafile = true
 
 [[files]]
@@ -636,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fb567e276e5ae628a1fa843b264dc01532c86942a69e5d2352be44a1be63674b"
-metafile = true
-
-[[files]]
-file = "mods/universal-shops.pw.toml"
-hash = "cb535a40d631ed67f69d317ffa0d77213ca83b726d2838331c4912a02640039d"
 metafile = true
 
 [[files]]
