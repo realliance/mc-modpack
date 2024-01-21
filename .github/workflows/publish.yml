@@ -33,14 +33,13 @@ jobs:
         run: deno run -A mod.ts set ${{ github.event.release.tag_name || '0.0.0' }}
       - name: Export Modpack
         run: packwiz ${{ matrix.platform }} export
+      - name: Rename to Release-Friendly Name
+        run: mv "Realliance Community-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}" "${{ matrix.platform }}-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}"
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.platform }}-export
-          path: Realliance Community-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}
-      - name: Rename to Release-Friendly Name
-        if: github.event_name == 'release'
-        run: mv "Realliance Community-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}" "${{ matrix.platform }}-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}"
+          path: ${{ matrix.platform }}-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}
       - name: Upload to Release
         if: github.event_name == 'release'
         uses: JasonEtco/upload-to-release@master
@@ -57,11 +56,13 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: modrinth-export
+      - name: List Artifact
+        run: ls -R
       - name: Upload to Modrinth
         uses: cloudnode-pro/modrinth-publish@1.0.0
         with:
           token: "${{ secrets.MODRINTH_TOKEN }}"
           project: realliance-community
-          file: "modrinth-export/Realliance Community-${{ github.event.release.tag_name }}.mrpack"
+          file: ./modrinth-export/modrinth-${{ github.event.release.tag_name || '0.0.0' }}.mrpack
           changelog: "${{ github.event.release.body }}"
           loaders: "fabric"
