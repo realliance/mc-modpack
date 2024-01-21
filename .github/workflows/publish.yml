@@ -10,7 +10,8 @@ on:
     branches: [main]
   pull_request:
     types: [opened, synchronize, reopened]
-
+  release:
+    types: [published]
 jobs:
   build:
     strategy:
@@ -26,12 +27,36 @@ jobs:
       - uses: rrbutani/use-nix-shell-action@v1
         with:
           file: shell.nix
-      - name: Set Version to 0.0.0 for Artifact
-        run: deno run -A mod.ts reset
+      - name: Set Version for Artifact
+        run: deno run -A mod.ts set ${{ github.event.release.tag_name || '0.0.0' }}
       - name: Export Modpack
         run: packwiz ${{ matrix.platform }} export
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
           name: ${{ matrix.platform }}-export
-          path: Realliance Community-0.0.0.${{ matrix.fileFormat }}
+          path: Realliance Community-${{ github.event.release.tag_name || '0.0.0' }}.${{ matrix.fileFormat }}
+      - name: Upload to Release
+        if: github.event_name == 'release'
+        uses: JasonEtco/upload-to-release@master
+        with:
+          args: "Realliance Community-${{ github.event.release.tag_name }}.${{ matrix.fileFormat }}"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+  publish-modrinth:
+    needs: build
+    if: github.event_name == 'release'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Modrinth Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: modrinth-export
+      - name: Upload to Modrinth
+        uses: cloudnode-pro/modrinth-publish@1.0.0
+        with:
+          token: "${{ secrets.MODRINTH_TOKEN }}"
+          project: realliance-community
+          file: "modrinth-export/Realliance Community-${{ github.event.release.tag_name }}.mrpack"
+          changelog: "${{ github.event.release.body }}"
+          loaders: "fabric"
