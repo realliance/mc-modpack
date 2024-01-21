@@ -63,6 +63,6 @@ jobs:
         with:
           token: "${{ secrets.MODRINTH_TOKEN }}"
           project: realliance-community
-          file: ./modrinth-export/modrinth-${{ github.event.release.tag_name || '0.0.0' }}.mrpack
+          file: modrinth-${{ github.event.release.tag_name || '0.0.0' }}.mrpack
           changelog: "${{ github.event.release.body }}"
           loaders: "fabric"
