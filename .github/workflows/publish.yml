@@ -72,7 +72,9 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
   publish-modrinth:
-    needs: build
+    needs:
+      - build
+      - docker-serve
     if: github.event_name == 'release'
     runs-on: ubuntu-latest
     steps:
