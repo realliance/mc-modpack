@@ -11,3 +11,5 @@ shell.nix
 mod.ts
 .github
 .vscode
+Dockerfile
+nginx.conf

@@ -5,10 +5,6 @@ file = ".dockerignore"
 hash = "4a46248d27cffb991b32452f32c4c87a170674e9b3032e2193e3f9415af76a8c"
 
 [[files]]
-file = "Dockerfile"
-hash = "5bdcbcebc8ce54080085e3d18b0cbd4cfb80eb9b98ef8e9a5ba2d3c0fdb312d6"
-
-[[files]]
 file = "LICENSE"
 hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
@@ -79,6 +75,30 @@ hash = "8066608498521eb606cb7787848f6377dfe7abb0669312d49cf4767d8ba63b37"
 [[files]]
 file = "config/banhammer/messages.json"
 hash = "a90ede292cf625b37123250904a3915960d592bdbcbf68543389c10bf6fc4a95"
+
+[[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "962f735ce44b71b79e9ef0d410f22dce370210511ad72d899b22fe26067f2cb0"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
@@ -1097,6 +1117,11 @@ hash = "f722ea0372d2459a35504422fb4f42945ca7fbcbdaebf0a1feb9d5d276144901"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "bdac724bd131ca51530883f0e5ea4aa6e4eb01f3d736ef3d6686710d5481e14c"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -1537,8 +1562,12 @@ hash = "b92eff4c9b9ddfa65f75fcada278e9782ba9c773e0fb9f690b6ad4cec4c28bd0"
 metafile = true
 
 [[files]]
-file = "nginx.conf"
-hash = "3ab8e64bf9ef7c4382d6d475230d1e7afa3546b115221ee4a15877b5eeb78c37"
+file = "options.txt"
+hash = "bc5ae532253c9d9a1913048f9c92e011750f5dc602d01597d19b0c973b7b235e"
+
+[[files]]
+file = "scripts/craftweaker_modify_item_alchemy.zs"
+hash = "1a17ef91de4e8e714b43aa4e0c95343d2420adc47f562343894a6f73c7194930"
 
 [[files]]
 file = "servers.dat"
