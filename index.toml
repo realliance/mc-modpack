@@ -229,22 +229,6 @@ file = "config/copperhopper.properties"
 hash = "9e690dd8f8a614cd6351eae694fbfca2768b09aff682c4f51ddf4eaf1e3fa52c"
 
 [[files]]
-file = "config/create-client.toml"
-hash = "717e001dc549229ae3bf5fec8bb0f5b18fe09bbf5aadfffe5dd83b22850a7234"
-
-[[files]]
-file = "config/create-common.toml"
-hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
-
-[[files]]
-file = "config/create-server.toml"
-hash = "b87e2ec74e58e7a85c4a6d921242d587f5c72666ef09b67b51a1dd3c7df25609"
-
-[[files]]
-file = "config/createaddition-common.toml"
-hash = "50e8adc8ece470589dd2702b37ca109d084403d2dbbe69dba405316023ea43e7"
-
-[[files]]
 file = "config/debugify.json"
 hash = "ff8b7bdb8258a3834793105a279060d98798a8c7adf9d4532059782680d545db"
 
@@ -295,10 +279,6 @@ hash = "2ba5e0623a6b831434046f4f1618a2bee57cb3f08a9d740bb6b38b0943612c9e"
 [[files]]
 file = "config/gottagofast.json5"
 hash = "3577a766434233f3597293e57a76105bd9e7e1f1a5c5025ca85e6c51bfc2cda7"
-
-[[files]]
-file = "config/gtceu.yaml"
-hash = "62505124705e55cd1896264c77fb6297c3f9f3ee5d4b06dbb9d5cf3d5b228d89"
 
 [[files]]
 file = "config/image2map.json"
@@ -433,20 +413,8 @@ file = "config/magna.json"
 hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
 
 [[files]]
-file = "config/missions/config.json"
-hash = "96e013599ced6ae379c54158be1e549b5747677084433ce616c3f0cc3a05a381"
-
-[[files]]
-file = "config/missions/currency.json"
-hash = "5ccb29cdbf6aa6a4b78f53df9c844b7ebb5f32c1103b3b54c6be3ebc2758dc5c"
-
-[[files]]
-file = "config/missions/missions.json"
-hash = "ac41daebc63529d6480df152b0d198631152996b320bb674b5c0d4f90544292b"
-
-[[files]]
 file = "config/modern_industrialization.toml"
-hash = "e46f5c8736a5aeca1fd377eec3ef6265238bdaa53145396a1b976d7df918db7a"
+hash = "f9eec23dd20091f06e945679cfa5259836b36749d33cd4a87870f4cfe8fca488"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -639,14 +607,6 @@ hash = "f68f196bcb9672c0730a8e17d23e27aa455160914654e25c0b88fa2855b0d4b4"
 [[files]]
 file = "config/simplyswords_main/weapon_attributes.json5"
 hash = "9220a83442ee1f88e7ec1656ae4cbc9eef51449a170ba40e29fc4775753dde78"
-
-[[files]]
-file = "config/sliceanddice-client.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
-file = "config/sliceanddice-common.toml"
-hash = "b39636bb092d0e57809488c0b3a9e054a48ade6219071a147986633273fcf1c6"
 
 [[files]]
 file = "config/spell_engine/enchantments.json"
