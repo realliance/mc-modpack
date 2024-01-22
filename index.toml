@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".dockerignore"
+hash = "4a46248d27cffb991b32452f32c4c87a170674e9b3032e2193e3f9415af76a8c"
+
+[[files]]
+file = "Dockerfile"
+hash = "5bdcbcebc8ce54080085e3d18b0cbd4cfb80eb9b98ef8e9a5ba2d3c0fdb312d6"
+
+[[files]]
 file = "LICENSE"
 hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
@@ -418,7 +426,7 @@ hash = "b4aec2072ee6eabdc444cef339ff839bfbdfb44cd6c3270483d57279365d6b68"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "7cae5900208605dd6643e1a8ddb647761a8dbbcb62da3febc2f45e50878c3234"
+hash = "4cf33cbb51ba68b27df16e129a37cdf89df25021f8e7412a6d0304a2690602a1"
 
 [[files]]
 file = "config/magna.json"
@@ -1249,11 +1257,6 @@ hash = "3e6c82530a7d41d6113fe2123d0cff828f21b95cff907ab05626f174faf483a5"
 metafile = true
 
 [[files]]
-file = "mods/occlusion-culling-fix-sodium.pw.toml"
-hash = "6376089e015378145857ba665a8db139a1c578c36e09313381852cebf84dab04"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -1351,11 +1354,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
 metafile = true
 
 [[files]]
@@ -1522,6 +1520,10 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "b92eff4c9b9ddfa65f75fcada278e9782ba9c773e0fb9f690b6ad4cec4c28bd0"
 metafile = true
+
+[[files]]
+file = "nginx.conf"
+hash = "3ab8e64bf9ef7c4382d6d475230d1e7afa3546b115221ee4a15877b5eeb78c37"
 
 [[files]]
 file = "servers.dat"
