@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".dockerignore"
-hash = "4a46248d27cffb991b32452f32c4c87a170674e9b3032e2193e3f9415af76a8c"
+hash = "40df771b682b67f1a3a5284d63b67e6413e2b16efe7a6085b0e0be0c847cbb68"
 
 [[files]]
 file = "LICENSE"
@@ -1567,7 +1567,7 @@ hash = "bc5ae532253c9d9a1913048f9c92e011750f5dc602d01597d19b0c973b7b235e"
 
 [[files]]
 file = "scripts/craftweaker_modify_item_alchemy.zs"
-hash = "1a17ef91de4e8e714b43aa4e0c95343d2420adc47f562343894a6f73c7194930"
+hash = "03c87799dce4e6d40714cfdcd60d8928803c20c358c401e14aa5f17e1b64eb8c"
 
 [[files]]
 file = "servers.dat"
