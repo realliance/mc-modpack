@@ -59,6 +59,5 @@ craftingTable.addShaped("dark_matter", <item:itemalchemy:dark_matter>, [
 // Alchemical Fuel
 
 craftingTable.removeByName("itemalchemy:alchemical_craft/n3");
-craftingTable.addShapeless("alchemical_fuel", <item:itemalchemy:alchemical_fuel>, [<item:itemalchemy:philosopher_stone>.reuse(), <item:botania:rune_fire>, <item:minecraft:fire_charge>]);
-
+craftingTable.addShapeless("alchemical_fuel/n3", <item:itemalchemy:alchemical_fuel>, [<item:itemalchemy:philosopher_stone>.reuse(), <item:botania:rune_fire>, <item:minecraft:fire_charge>]);
 

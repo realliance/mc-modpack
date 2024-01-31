@@ -33,10 +33,6 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/TabTPS/display-configs/default.conf"
 hash = "efcad42c15087e3ac549a9b4cd2c1c6fe5f09fe9249701f8f62655e33cb7bdfc"
 
@@ -98,7 +94,7 @@ hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
 
 [[files]]
 file = "config/bclib/server.json"
-hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
@@ -111,14 +107,6 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 [[files]]
 file = "config/betterdeserttemples-fabric-1_20.toml"
 hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
-
-[[files]]
-file = "config/betterdeserttemples/README.txt"
-hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
-
-[[files]]
-file = "config/betterdeserttemples/fabric-1_20/README.txt"
-hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
 
 [[files]]
 file = "config/betterdeserttemples/fabric-1_20/armorstands.json"
@@ -135,14 +123,6 @@ hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
 [[files]]
 file = "config/betterfortresses-fabric-1_20.toml"
 hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
-
-[[files]]
-file = "config/betterfortresses/README.txt"
-hash = "a4e97263d2f099fcbc3fd7646c85c562e1eb7659bfa5ff66b11f76afaa2f9c06"
-
-[[files]]
-file = "config/betterfortresses/fabric-1_20/README.txt"
-hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
 
 [[files]]
 file = "config/betterfortresses/fabric-1_20/itemframes.json"
@@ -163,14 +143,6 @@ hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
 [[files]]
 file = "config/betterstrongholds-fabric-1_20.toml"
 hash = "2dae469f9196a363cb5e9fb614788224a713378f22300a1afd6486f1d43766a2"
-
-[[files]]
-file = "config/betterstrongholds/README.txt"
-hash = "70aadca974d0adfe90f98930e23c15076b3d2e625c88e8c2aa6721d91a8c035f"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_20/README.txt"
-hash = "c857bda54ab01ca5db21cfe085dc75dcbb13d26054463cf301c74023783612fc"
 
 [[files]]
 file = "config/betterstrongholds/fabric-1_20/armorstands.json"
@@ -315,6 +287,10 @@ hash = "aed233f949d471a7a27ba60ade064e9356e44d5e86266a17bcd1437b163722bc"
 [[files]]
 file = "config/immersive_paintings.json"
 hash = "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c"
+
+[[files]]
+file = "config/iris.properties"
+hash = "63472d8265133f1a35fcb4d019e15d0944af2fde36f202fb91af32e9549905af"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -729,20 +705,8 @@ file = "icon.png"
 hash = "7e520af4c91d763d244497fc201cd0ae1e2c0c950940ad9a0a41274514439248"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejs/assets/.keep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
 file = "kubejs/config/client.properties"
-hash = "48653b3d8014302dbd4d01250460e68e84c6bec8692710123a13acc969102077"
+hash = "c8d7c524faadf55be5df16a66de21d2adb516c1ddf884f3501b1ac78681097e2"
 
 [[files]]
 file = "kubejs/config/common.properties"
@@ -751,10 +715,6 @@ hash = "0d3fd0a9db10ca1f3c6dc3e2ef5751857949d7ceb8b8ec2ef2378cf971bda47b"
 [[files]]
 file = "kubejs/config/packicon.png"
 hash = "e2b0f3caa522cf8c4f40fb3922c2b207a185c34e4b5c30c0ae28bfc090863423"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1262,11 +1222,6 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/no-indium.pw.toml"
-hash = "3826e13ade09f5aa89bf7c1661346cb411e3bfefb4cd1c1a04aa86dab71fdf02"
-metafile = true
-
-[[files]]
 file = "mods/no-realms-button.pw.toml"
 hash = "b3798846ca6ba77728b169b7656a0fe108449917418df2273395859e1f1460ea"
 metafile = true
@@ -1343,7 +1298,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+hash = "23d596d1d2e39ae3b05415790663819401fc62d745d6a817e88d9c36d07bce53"
 metafile = true
 
 [[files]]
@@ -1567,8 +1522,17 @@ hash = "bc5ae532253c9d9a1913048f9c92e011750f5dc602d01597d19b0c973b7b235e"
 
 [[files]]
 file = "scripts/craftweaker_modify_item_alchemy.zs"
-hash = "03c87799dce4e6d40714cfdcd60d8928803c20c358c401e14aa5f17e1b64eb8c"
+hash = "3753a7cc7ddb00d32e67743d6822294c4eb5671fc44a81c45bc88b18ae3ddf8b"
 
 [[files]]
 file = "servers.dat"
 hash = "d36b2ada9159d8059531b72dd503d014e554f15b9e7a332f74f076ee420b31d4"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.0.zip.txt"
+hash = "d7b0d98475061265a01f3ddca1b9f5b9d6b53f1a6fa036211af9448fc822fb3f"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "9b3860752ca70fd5e84491e130e9d5d7d6e8230fbbcf10db27e2a10e5c7c79cb"
+metafile = true
