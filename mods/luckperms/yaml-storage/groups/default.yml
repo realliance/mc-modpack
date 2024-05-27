@@ -1,0 +1,14 @@
+name: default
+permissions:
+- factions.create
+- factions.info
+- factions.info.other
+- factions.join
+- factions.list
+- factions.map
+- factions.members
+- playerpronouns
+- tabtps.ping
+- tabtps.tps
+- universal_graves.list
+- weight.0

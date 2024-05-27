@@ -22,6 +22,7 @@ server: refresh-rebuild
     -e EULA=true \
     -e MEMORY=6G \
     -p 25565:25565 \
+    -v $(pwd)/tmp-server:/data:rw \
     itzg/minecraft-server
 
 refresh-rebuild:

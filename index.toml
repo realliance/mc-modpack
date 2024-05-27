@@ -402,7 +402,7 @@ hash = "b4aec2072ee6eabdc444cef339ff839bfbdfb44cd6c3270483d57279365d6b68"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "4cf33cbb51ba68b27df16e129a37cdf89df25021f8e7412a6d0304a2690602a1"
+hash = "9645e1095cf5d7a2a0dc6d0c26a01e1ecbdcbbeb71d096f9a1a5f3d25d5f34a2"
 
 [[files]]
 file = "config/magna.json"
@@ -434,7 +434,7 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/pfm.properties"
-hash = "97ed16451b94773a22219a5905ac016d5763c3a862378f61228b920a5d91c389"
+hash = "e4550965f4f20b2f805993b89ea137af79038fe6da767fe478b1acae9e18f23f"
 
 [[files]]
 file = "config/player-pronouns.json"
@@ -626,7 +626,7 @@ hash = "761681d0eb5dfa612f6245e0b3e98081b8c5383b28a58e2d3f92ba0cae65b752"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "5e42cec6e3ed64996eced65c11b813286874a6ffed685a0b141171ced6a24335"
+hash = "b829021c011e2a4ed8f45644ae6e9b25302de4882c69df0f101b81055ab1baad"
 
 [[files]]
 file = "config/supplementaries-common.json"
@@ -1125,6 +1125,18 @@ metafile = true
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
 metafile = true
+
+[[files]]
+file = "mods/luckperms/yaml-storage/groups/admin.yml"
+hash = "068cbaef14419df869eb681e35609dbe9e228c5995e070683a29e46d3efa9fad"
+
+[[files]]
+file = "mods/luckperms/yaml-storage/groups/default.yml"
+hash = "e85b8a9d0328c42f30a7188d4d2d93d68d41f794b90c22b300c9bcbea7f530e5"
+
+[[files]]
+file = "mods/luckperms/yaml-storage/tracks/staff.yml"
+hash = "cbad6f9df02721bd48d848fb0489a685994229154ac9c3d7955499f36baf1359"
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"

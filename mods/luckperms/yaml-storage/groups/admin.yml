@@ -1,0 +1,15 @@
+name: admin
+permissions:
+- factions.admin.*
+- banhammer.*
+- polymer.*
+- universal_graves.*
+- banhammer
+- displayname.Admin
+- factions.admin
+- weight.10
+parents:
+- default
+prefixes:
+- Admin:
+    priority: 10
