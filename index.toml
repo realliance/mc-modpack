@@ -1522,7 +1522,7 @@ hash = "bc5ae532253c9d9a1913048f9c92e011750f5dc602d01597d19b0c973b7b235e"
 
 [[files]]
 file = "scripts/craftweaker_modify_item_alchemy.zs"
-hash = "3753a7cc7ddb00d32e67743d6822294c4eb5671fc44a81c45bc88b18ae3ddf8b"
+hash = "7e5e1da3b519a9fc533227c66a04dd146f8fc7668e312a17b91d0974aea590e5"
 
 [[files]]
 file = "servers.dat"
