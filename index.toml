@@ -402,7 +402,7 @@ hash = "b4aec2072ee6eabdc444cef339ff839bfbdfb44cd6c3270483d57279365d6b68"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "9645e1095cf5d7a2a0dc6d0c26a01e1ecbdcbbeb71d096f9a1a5f3d25d5f34a2"
+hash = "bef4e5eb84df28de64d1e55c9d9946163ef8c2859c0ce20b7a51ea206ee75f39"
 
 [[files]]
 file = "config/magna.json"
