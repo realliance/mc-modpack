@@ -10,7 +10,7 @@ hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "28e916832a286a259a2470c704683bd2985c85ddc40c17b0aab51bd49455a1e6"
+hash = "418b2e65fa09ee40622a0311870f8b9e3fe319f56ac996553d57dc3bb705b27c"
 
 [[files]]
 file = "config/MiniMOTD/icons/icon.png"
@@ -1137,7 +1137,7 @@ hash = "fda3e6e06036e5a68252877ce1a04d508e4e694ade472b8ae8474db80d183b74"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/groups/default.yml"
-hash = "87ec5e6ae7ba77f0345182862a9158f558afa260954d7eb8d0feebe60cd73b79"
+hash = "93512310abe816873fe7b691507d018f11f93dddd74fdd3471cdb21027a084f4"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/tracks/staff.yml"
