@@ -250,7 +250,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/factions.json"
-hash = "ab7632963f5e7c9f1982da27e27e09d580cc89a54dc3e7151ad7f992d1323f78"
+hash = "23ab6f8f4d879e6490de34926ee07351ec5dcd38c9a9790881eb879cfa87cf82"
 
 [[files]]
 file = "config/fallingtree.json"

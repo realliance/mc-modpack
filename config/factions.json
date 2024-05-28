@@ -20,7 +20,7 @@
   },
   "display": {
     "factionNameMaxLength": -1,
-    "changeChat": true,
+    "changeChat": false,
     "tabMenu": true,
     "nameBlackList": [
       "wilderness",
