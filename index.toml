@@ -992,6 +992,11 @@ hash = "44e72ed65497275da589fd7dc42a1c6cb5ef8edb858da6cc56056c94f77f967c"
 metafile = true
 
 [[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+metafile = true
+
+[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
 metafile = true
