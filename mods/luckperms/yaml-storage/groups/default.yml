@@ -12,3 +12,10 @@ permissions:
 - tabtps.tps
 - universal_graves.list
 - weight.0
+- essentialcommands.spawn
+- essentialcommands.tpa
+- essentialcommands.tphere
+- essentialcommands.tpaccept
+- essentialcommands.tpdeny
+- essentialcommands.home.*
+- essentialcommands.back

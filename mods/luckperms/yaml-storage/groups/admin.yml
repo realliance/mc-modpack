@@ -8,6 +8,8 @@ permissions:
 - displayname.Admin
 - factions.admin
 - weight.10
+- essentialcommands.*
+- chunky.*
 parents:
 - default
 prefixes:

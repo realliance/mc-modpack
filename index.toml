@@ -1133,11 +1133,11 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms/yaml-storage/groups/admin.yml"
-hash = "068cbaef14419df869eb681e35609dbe9e228c5995e070683a29e46d3efa9fad"
+hash = "fda3e6e06036e5a68252877ce1a04d508e4e694ade472b8ae8474db80d183b74"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/groups/default.yml"
-hash = "e85b8a9d0328c42f30a7188d4d2d93d68d41f794b90c22b300c9bcbea7f530e5"
+hash = "87ec5e6ae7ba77f0345182862a9158f558afa260954d7eb8d0feebe60cd73b79"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/tracks/staff.yml"
