@@ -1,17 +1,18 @@
 name: admin
 permissions:
-- factions.admin.*
-- banhammer.*
-- polymer.*
-- universal_graves.*
-- banhammer
-- displayname.Admin
-- factions.admin
-- weight.10
-- essentialcommands.*
-- chunky.*
+  - factions.admin.*
+  - banhammer.*
+  - polymer.*
+  - universal_graves.*
+  - banhammer
+  - displayname.Admin
+  - factions.admin
+  - weight.10
+  - essentialcommands.*
+  - chunky.*
+  - minecraft.*
 parents:
-- default
+  - default
 prefixes:
-- Admin:
-    priority: 10
+  - Admin:
+      priority: 10

@@ -1137,15 +1137,15 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms/yaml-storage/groups/admin.yml"
-hash = "fda3e6e06036e5a68252877ce1a04d508e4e694ade472b8ae8474db80d183b74"
+hash = "f552ba6ef0cb32b74290c6dcc2fee2026f99ef41b9f998c275e0b4284687d0b8"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/groups/default.yml"
-hash = "93512310abe816873fe7b691507d018f11f93dddd74fdd3471cdb21027a084f4"
+hash = "d44d2b6bd8150ab5865bf16071aec7cbdf03bf68b5382486507ba235e49dd332"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/tracks/staff.yml"
-hash = "cbad6f9df02721bd48d848fb0489a685994229154ac9c3d7955499f36baf1359"
+hash = "0611e129aa2cb00d1856fba51453895239658b707000f7b14c3100bace77d7d4"
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"

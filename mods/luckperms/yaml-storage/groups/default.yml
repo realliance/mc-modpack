@@ -1,21 +1,23 @@
 name: default
 permissions:
-- factions.create
-- factions.info
-- factions.info.other
-- factions.join
-- factions.list
-- factions.map
-- factions.members
-- playerpronouns
-- tabtps.ping
-- tabtps.tps
-- universal_graves.list
-- weight.0
-- essentialcommands.spawn
-- essentialcommands.tpa
-- essentialcommands.tphere
-- essentialcommands.tpaccept
-- essentialcommands.tpdeny
-- essentialcommands.home.*
-- essentialcommands.home.limit.1
+  - factions.create
+  - factions.info
+  - factions.info.other
+  - factions.join
+  - factions.list
+  - factions.map
+  - factions.members
+  - playerpronouns
+  - tabtps.ping
+  - tabtps.tps
+  - universal_graves.list
+  - weight.0
+  - essentialcommands.spawn
+  - essentialcommands.tpa
+  - essentialcommands.tphere
+  - essentialcommands.tpaccept
+  - essentialcommands.tpdeny
+  - essentialcommands.home.*
+  - essentialcommands.home.limit.1
+  - essentialcommands.rules
+  - essentialcommands.rtp
