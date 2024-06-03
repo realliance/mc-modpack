@@ -246,7 +246,7 @@ hash = "cd072a740260ad90cd5f6272aa033e707fa121d8ecf34eb71ff3d29116d8a03f"
 
 [[files]]
 file = "config/essentialcommands/rules.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "64f4941f36a580b252114b7d613061b3c7be4b965088e63e60c46a735f02542a"
 
 [[files]]
 file = "config/factions.json"
@@ -635,6 +635,10 @@ hash = "945baae9826267885d03167eec2ce7233c26ded4b4b9f53ee578861e17519ed3"
 [[files]]
 file = "config/tectonic.json"
 hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
+
+[[files]]
+file = "config/textile_backup.json5"
+hash = "917a7f51669b3b89c347826d1ef67f5a1754e13e047b0971263a61b1d9747320"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -1411,6 +1415,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "de89d4ffd14c02db24f737055f1f11b784bcb98e7e826efa4bc2329a962b4ba5"
 metafile = true
 
 [[files]]
