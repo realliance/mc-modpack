@@ -13,7 +13,7 @@ permissions:
   - universal_graves.list
   - weight.0
   - essentialcommands.tpa
-  - essentialcommands.tphere
+  - essentialcommands.tpahere
   - essentialcommands.tpaccept
   - essentialcommands.tpdeny
   - essentialcommands.home.*
