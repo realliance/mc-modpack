@@ -10,7 +10,7 @@ hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "418b2e65fa09ee40622a0311870f8b9e3fe319f56ac996553d57dc3bb705b27c"
+hash = "7486c28f0ba13c8bcb4abf788d13014ae7227005c404d9b5fb3c23f64218b1aa"
 
 [[files]]
 file = "config/MiniMOTD/icons/icon.png"
@@ -246,7 +246,7 @@ hash = "cd072a740260ad90cd5f6272aa033e707fa121d8ecf34eb71ff3d29116d8a03f"
 
 [[files]]
 file = "config/essentialcommands/rules.txt"
-hash = "64f4941f36a580b252114b7d613061b3c7be4b965088e63e60c46a735f02542a"
+hash = "22b895f2e76ff5f4649f422702604905f36c7acb096a2c8c26997aedc19f72a9"
 
 [[files]]
 file = "config/factions.json"
@@ -638,7 +638,7 @@ hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
 
 [[files]]
 file = "config/textile_backup.json5"
-hash = "917a7f51669b3b89c347826d1ef67f5a1754e13e047b0971263a61b1d9747320"
+hash = "2d1aa5aad7bc91b535bbae520f552df06c44174eb33ce17ee46be2f8c623ed54"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -1151,7 +1151,7 @@ hash = "f552ba6ef0cb32b74290c6dcc2fee2026f99ef41b9f998c275e0b4284687d0b8"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/groups/default.yml"
-hash = "d44d2b6bd8150ab5865bf16071aec7cbdf03bf68b5382486507ba235e49dd332"
+hash = "4a16e6d130ff72b424e922c4c589d3a600812b0555e236e291b3e3bd9522ced0"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/tracks/staff.yml"
