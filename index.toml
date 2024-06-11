@@ -9,6 +9,10 @@ file = "LICENSE"
 hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "4bf9f0ca0c0e7538a99a58bf67302413101fc2863aea9f26829a66a87eb56cf2"
+
+[[files]]
 file = "config/EssentialCommands.properties"
 hash = "7486c28f0ba13c8bcb4abf788d13014ae7227005c404d9b5fb3c23f64218b1aa"
 
