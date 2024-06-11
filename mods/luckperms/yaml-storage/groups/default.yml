@@ -16,7 +16,9 @@ permissions:
   - essentialcommands.tpahere
   - essentialcommands.tpaccept
   - essentialcommands.tpdeny
-  - essentialcommands.home.*
+  - essentialcommands.home.set
+  - essentialcommands.home.tp
+  - essentialcommands.home.delete
   - essentialcommands.home.limit.1
   - essentialcommands.rules
-  - essentialcommands.rtp
+  - essentialcommands.randomteleport

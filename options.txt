@@ -107,8 +107,8 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.saveToolbarActivator:key.keyboard.period
+key_key.loadToolbarActivator:key.keyboard.comma
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -130,8 +130,8 @@ key_key.ae2.ae2wtlib_restock:key.keyboard.unknown
 key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
-key_key.botania_corporea_request:key.keyboard.c
-key_chunkloaders.keys.open_screen:key.keyboard.c
+key_key.botania_corporea_request:key.keyboard.i
+key_chunkloaders.keys.open_screen:key.keyboard.right.bracket
 key_key.clutter.pet:key.keyboard.v
 key_key.dml-refabricated.teleport:key.keyboard.v
 key_key.dml-refabricated.soul_vision:key.keyboard.b
@@ -168,7 +168,7 @@ key_key.modern_industrialization.activate:key.keyboard.v
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.pfm.toiletUse:key.keyboard.u
-key_key.puffish_skills.open:key.keyboard.k
+key_key.puffish_skills.open:key.keyboard.grave.accent
 key_key.shetiphiancore.tool.next:key.keyboard.page.up
 key_key.shetiphiancore.tool.previous:key.keyboard.page.down
 key_key.simplyskills.ability1:key.keyboard.v
@@ -187,6 +187,8 @@ key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

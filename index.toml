@@ -935,6 +935,11 @@ hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
 file = "mods/egg-of-capitalism.pw.toml"
 hash = "86f2d5753cfa9a3bf2da082a339150c198e0640509e203bd12ec72ce18059ebb"
 metafile = true
@@ -957,6 +962,11 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "7d8b0a844771b27e9bffb5d45d6f357e88e132fba303f6b1c96a116071ad03c9"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
@@ -1080,6 +1090,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
@@ -1155,7 +1170,7 @@ hash = "f552ba6ef0cb32b74290c6dcc2fee2026f99ef41b9f998c275e0b4284687d0b8"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/groups/default.yml"
-hash = "4a16e6d130ff72b424e922c4c589d3a600812b0555e236e291b3e3bd9522ced0"
+hash = "89d6a11ff262ce078af6e2712f3f1fa30195062e7da7de1ca708e47e39ab8691"
 
 [[files]]
 file = "mods/luckperms/yaml-storage/tracks/staff.yml"
@@ -1557,8 +1572,13 @@ hash = "b92eff4c9b9ddfa65f75fcada278e9782ba9c773e0fb9f690b6ad4cec4c28bd0"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "bc5ae532253c9d9a1913048f9c92e011750f5dc602d01597d19b0c973b7b235e"
+hash = "4788d6bd067be89354f621d4faeb879107db01a524ddf5f287275f9c7e0eb195"
 
 [[files]]
 file = "scripts/craftweaker_modify_item_alchemy.zs"
