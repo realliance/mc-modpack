@@ -760,6 +760,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "70f3988fc144b7da812dfa6be45720e13980a2421768c8542b5acdb22ebee6ba"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "b5ab061f078e160c2d6b60b43fa4e35860306f1e7bb5e3323dd3689d4f1a24ba"
 metafile = true
@@ -1317,6 +1322,11 @@ hash = "380dc01ccca1dd5f5acc54845b21ac1533bfcb048ca62b357b9b89eb10dbb07d"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "576d07620d82ba95eb403981a9ba96e1c8fb3098039c732a0c2598a199ef08ec"
+metafile = true
+
+[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "240cc009c83904cbe69eccf79f42ef50300007fe9cc00d0489dbd888383cb883"
 metafile = true
@@ -1379,6 +1389,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
 metafile = true
 
 [[files]]
