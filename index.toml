@@ -50,7 +50,7 @@ hash = "be849ebc154c84986260430f6c52ba9c61aad140756b589d07169c2e3e80447e"
 
 [[files]]
 file = "config/ae2/client.json"
-hash = "2b4592dca53600318a7123befb79193bd261a44739b203d3e01d56eddbf2e27e"
+hash = "a3c129f8dab9794e3abd0d27a377140a5a03040b5273c8a3b7d987f9ac5151c4"
 
 [[files]]
 file = "config/ae2/common.json"
@@ -975,11 +975,6 @@ hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
-file = "mods/extreme_sound_muffler.pw.toml"
-hash = "f12908c5e33ffff99f95cd0de430500206591c1b68b1f099c33c6621d88e1081"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
@@ -1434,11 +1429,6 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
-metafile = true
-
-[[files]]
-file = "mods/stack-refill.pw.toml"
-hash = "0226ecadb12bb3ecfb3b5508766352348d906fccf8b1144972a9e72f6ff79bb1"
 metafile = true
 
 [[files]]
