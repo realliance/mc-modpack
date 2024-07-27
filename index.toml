@@ -755,18 +755,8 @@ hash = "67d1dac247ae7af173e15fa747cdb301c5fd9fdaa395840d683cd03b5913956b"
 metafile = true
 
 [[files]]
-file = "mods/archers.pw.toml"
-hash = "616f08ac2b9ec995dfbb3c7799abf6396c5a8b32a51e00a781bcc8cc60378df1"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
-metafile = true
-
-[[files]]
-file = "mods/azurelib-armor.pw.toml"
-hash = "70f3988fc144b7da812dfa6be45720e13980a2421768c8542b5acdb22ebee6ba"
 metafile = true
 
 [[files]]
@@ -1327,11 +1317,6 @@ hash = "380dc01ccca1dd5f5acc54845b21ac1533bfcb048ca62b357b9b89eb10dbb07d"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "f811a02944223f535532a839386962dd8708e2aed1037ce6081968e67a2932d3"
-metafile = true
-
-[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "240cc009c83904cbe69eccf79f42ef50300007fe9cc00d0489dbd888383cb883"
 metafile = true
@@ -1372,11 +1357,6 @@ hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
 metafile = true
 
 [[files]]
-file = "mods/ranged-weapon-api.pw.toml"
-hash = "cbff9574beec124a49e11833fd3a4cb1f7d45542cdb26afda6a2b002c518e0d2"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
 metafile = true
@@ -1397,18 +1377,8 @@ hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
-file = "mods/rogues-and-warriors.pw.toml"
-hash = "382d9d82b859a302f9b593c0f2f5aa2ed14a8ae032d9c772b491a25e7b4a2de1"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
-metafile = true
-
-[[files]]
-file = "mods/runes.pw.toml"
-hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
 metafile = true
 
 [[files]]
@@ -1424,11 +1394,6 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "dcb97552f92c7b5c6fb6a8f403617bf30336829b482627fa2f3abeaf8bfb86e6"
-metafile = true
-
-[[files]]
-file = "mods/shield-api.pw.toml"
-hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
 metafile = true
 
 [[files]]
@@ -1554,11 +1519,6 @@ metafile = true
 [[files]]
 file = "mods/wither-cage-fix.pw.toml"
 hash = "d66e5f572b0cdd8764a286d87e6489e926bbb938196d7e4749d35c33f99369ea"
-metafile = true
-
-[[files]]
-file = "mods/wizards.pw.toml"
-hash = "ecfda063bff490288fcaa79731926129ca8382e1ca9b07ec6b301ddd910c7b23"
 metafile = true
 
 [[files]]
