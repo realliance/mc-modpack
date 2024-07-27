@@ -755,6 +755,11 @@ hash = "67d1dac247ae7af173e15fa747cdb301c5fd9fdaa395840d683cd03b5913956b"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "faed1a8ed88b10decde5497566ccf4e18c425945fcfbc6078ffa8dc8f5600079"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -1354,6 +1359,11 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "dbc5b0fb40cde6e80b74672dffb4db95bd74d3b2097614edd5748a447332e705"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "f14e3456af647e073ad42512f4312a34ffdc2ed3ae72b1304031ebedc5e41a15"
 metafile = true
 
 [[files]]
