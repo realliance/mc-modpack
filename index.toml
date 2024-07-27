@@ -1447,6 +1447,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "c3a4a02e30cb8e36dd2bbf66f622c4d9319d6e8040e9961f4a866899030e5707"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "3aa7821abddca3c5facb1e9bb57883ffd6be56f24aa27f61ac61ad111b9c870a"
 metafile = true
