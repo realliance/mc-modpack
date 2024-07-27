@@ -825,6 +825,11 @@ hash = "2b115c22f739c472bc46399a036b63c59fd418e77fca52255058929b3986f2ec"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "29885615b9a13b46a8c0e2da012b0f51f1eeea35d6fcb58d74fe094c959f4400"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b30c045235fcafd2bae1e8272649fd511a04d2ccaa651222f099f3cf1addb32b"
 metafile = true
@@ -967,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "f12908c5e33ffff99f95cd0de430500206591c1b68b1f099c33c6621d88e1081"
 metafile = true
 
 [[files]]
@@ -1140,6 +1150,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "3f384662dcf6962e7a02e2e824c543ab167d9cf8b6299e62f5ca69f8048af99f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -1175,6 +1190,11 @@ hash = "89d6a11ff262ce078af6e2712f3f1fa30195062e7da7de1ca708e47e39ab8691"
 [[files]]
 file = "mods/luckperms/yaml-storage/tracks/staff.yml"
 hash = "0611e129aa2cb00d1856fba51453895239658b707000f7b14c3100bace77d7d4"
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f55d3feb4d1609d5567258dba90fbb583e6ee827aa32aa1cd2b9281dd1a0b614"
+metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
@@ -1414,6 +1434,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "0226ecadb12bb3ecfb3b5508766352348d906fccf8b1144972a9e72f6ff79bb1"
 metafile = true
 
 [[files]]
