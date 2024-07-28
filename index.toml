@@ -900,6 +900,11 @@ hash = "e24fbc86c302698f5337624a4272b58e8b29954cc114c76dbfeed28ed55e8005"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "50b6c54369edba5a5c12455464ca3282c9e55a1065f0d659c405ac61105495fb"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "6b216138f5c7afa9a326e9677b8f29c5e9c39e799b693da86ac5e53306c25623"
 metafile = true
