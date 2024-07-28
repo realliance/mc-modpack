@@ -900,8 +900,8 @@ hash = "e24fbc86c302698f5337624a4272b58e8b29954cc114c76dbfeed28ed55e8005"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "50b6c54369edba5a5c12455464ca3282c9e55a1065f0d659c405ac61105495fb"
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
@@ -1636,8 +1636,20 @@ file = "options.txt"
 hash = "db2fdc166009650479dc6d38133b2f5d274248f39f0c10ba66fee393f4739aad"
 
 [[files]]
+file = "scripts/craftweaker_modify_dml.zs"
+hash = "083f55250d6adeef790f3e87bbce86923e73dd06b930c5bff0bf48a0c0d400dc"
+
+[[files]]
 file = "scripts/craftweaker_modify_item_alchemy.zs"
 hash = "7e5e1da3b519a9fc533227c66a04dd146f8fc7668e312a17b91d0974aea590e5"
+
+[[files]]
+file = "scripts/craftweaker_quiver.zs"
+hash = "6f5231c6b4b683180be95842a32a1b1ab55615565622f62a6adf791d1cc37b0f"
+
+[[files]]
+file = "scripts/creatweaker_modify_builder_wands.zs"
+hash = "ff229836c307cf0b2e48ccd29b03ec18f805ad85d7135a108a80e0522beb1cb2"
 
 [[files]]
 file = "servers.dat"
