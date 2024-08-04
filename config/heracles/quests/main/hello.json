@@ -52,7 +52,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "hello"
+      "translate": "Hello World!"
     }
   },
   "settings": {

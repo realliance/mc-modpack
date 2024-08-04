@@ -273,6 +273,22 @@ file = "config/gottagofast.json5"
 hash = "3577a766434233f3597293e57a76105bd9e7e1f1a5c5025ca85e6c51bfc2cda7"
 
 [[files]]
+file = "config/heracles/groups.txt"
+hash = "263449f0859dad7602b8ef2bc3f4e8470bafd2b72ba594890b9bc33c64cb0fa0"
+
+[[files]]
+file = "config/heracles/quests/main/hello.json"
+hash = "cdd7d4a4c3571158385d90e06a0a3405a184b95517e016e37e96aad92c6443e7"
+
+[[files]]
+file = "config/heracles/quests/main/pronouns.json"
+hash = "e7a084bffda81bdcf0ddf66ced2949fa842f39425721cbdf4cf7f88577260328"
+
+[[files]]
+file = "config/heracles/tutorial.html"
+hash = "74c8429146e4e51231431e3d92570f4bab0f4f283fc294405ecb662822c3d092"
+
+[[files]]
 file = "config/image2map.json"
 hash = "017fcc31d5228472e9c4e42054f28df39c2bc11010ec6ae035d7af1d1b7e1eb3"
 
