@@ -1388,7 +1388,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "23d596d1d2e39ae3b05415790663819401fc62d745d6a817e88d9c36d07bce53"
+hash = "3cda85e2da5d48c8ae89c43c0519c6e4dce11e1d4c6fce66bdb98c9fe17a32d7"
 metafile = true
 
 [[files]]
@@ -1649,7 +1649,7 @@ hash = "6f5231c6b4b683180be95842a32a1b1ab55615565622f62a6adf791d1cc37b0f"
 
 [[files]]
 file = "scripts/creatweaker_modify_builder_wands.zs"
-hash = "ff229836c307cf0b2e48ccd29b03ec18f805ad85d7135a108a80e0522beb1cb2"
+hash = "e8e9741658e9cdde4585a402442d02b205f9a478493ee63919f73e2667173e5a"
 
 [[files]]
 file = "servers.dat"
