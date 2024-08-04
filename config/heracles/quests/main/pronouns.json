@@ -1,0 +1,62 @@
+{
+  "dependencies": [
+    "hello"
+  ],
+  "tasks": {
+    "ack": {
+      "title": "I set it!",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "ok": {
+      "xptype": "LEVEL",
+      "amount": 5,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Set your pronouns with..."
+    },
+    "description": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Set your pronouns be viewable in the chat with",
+      "",
+      "/1//pronouns set <your pronouns>/1/",
+      "",
+      "this way others will be able to see them in chat :)"
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -258,
+          -6
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:writable_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Pronouns"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

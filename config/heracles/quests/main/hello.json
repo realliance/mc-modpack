@@ -1,0 +1,66 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Ok!": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "10": {
+      "xptype": "LEVEL",
+      "amount": 5,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "**Welcome To the Server!**",
+      "",
+      "This book will guide you through various aspects and progressions in this modpack.",
+      "",
+      "Some of these quests may give you loot to aid your progress along the way :)",
+      "",
+      "Every quest will have tasks, which you can see why clicking on the /5/Tasks/5/ tab on the left.",
+      "",
+      "Similarly, you will get to see the rewards on it's own tab."
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -106,
+          -5
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "heracles:quest_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "hello"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

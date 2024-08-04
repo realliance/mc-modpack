@@ -253,10 +253,6 @@ file = "config/essentialcommands/rules.txt"
 hash = "22b895f2e76ff5f4649f422702604905f36c7acb096a2c8c26997aedc19f72a9"
 
 [[files]]
-file = "config/factions.json"
-hash = "23ab6f8f4d879e6490de34926ee07351ec5dcd38c9a9790881eb879cfa87cf82"
-
-[[files]]
 file = "config/fallingtree.json"
 hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
 
@@ -514,7 +510,7 @@ hash = "e76bbc73d622a4e1a8ec0d34c4a96a39773272ea50d2d137d59ecd9e08d7c222"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "ca8bfde2dc7313fd2b06a0f4b04a6e9536773c33439f3df64dfafb555ec3eeb7"
+hash = "0aee8e13418d9dc7ed448b5f31a52a6ef8d9843e91e19f78d8143065173342da"
 
 [[files]]
 file = "config/servercore.toml"
@@ -765,6 +761,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "597db06a671717007869d4aa033732fa7d03fc370deb934f2085601fd2c9b99d"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "70f3988fc144b7da812dfa6be45720e13980a2421768c8542b5acdb22ebee6ba"
 metafile = true
@@ -837,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/building-wands.pw.toml"
 hash = "29885615b9a13b46a8c0e2da012b0f51f1eeea35d6fcb58d74fe094c959f4400"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "241146c0daa95b2fc2f7ab72f5029e38c3315a360dffadcc7b236c9c6757325d"
 metafile = true
 
 [[files]]
@@ -1010,11 +1016,6 @@ hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
-file = "mods/factions.pw.toml"
-hash = "75b687d053336772c3357f324ed20e99f1cd8c1e599813586ce35c248e22c623"
-metafile = true
-
-[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
 metafile = true
@@ -1087,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/gotta-go-fast-fabric.pw.toml"
 hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "b9012cd40181be144e60d904d6f387443fea89b4b334515e902e8b00c5e588d6"
 metafile = true
 
 [[files]]
@@ -1404,6 +1410,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "3cda85e2da5d48c8ae89c43c0519c6e4dce11e1d4c6fce66bdb98c9fe17a32d7"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
 metafile = true
 
 [[files]]
