@@ -840,6 +840,11 @@ hash = "29885615b9a13b46a8c0e2da012b0f51f1eeea35d6fcb58d74fe094c959f4400"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b30c045235fcafd2bae1e8272649fd511a04d2ccaa651222f099f3cf1addb32b"
 metafile = true
@@ -910,6 +915,11 @@ hash = "6b216138f5c7afa9a326e9677b8f29c5e9c39e799b693da86ac5e53306c25623"
 metafile = true
 
 [[files]]
+file = "mods/cropped.pw.toml"
+hash = "90f1b4e4b69778af650183790461f0b0d461369ded7b9027cd99601996f9ff44"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
 metafile = true
@@ -977,6 +987,11 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "7d8b0a844771b27e9bffb5d45d6f357e88e132fba303f6b1c96a116071ad03c9"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "c9d16972821cf23bf56bdd454b48ab0d820233a857c6d9756124aabbac98902d"
 metafile = true
 
 [[files]]
@@ -1517,6 +1532,11 @@ hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -1524,6 +1544,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fb567e276e5ae628a1fa843b264dc01532c86942a69e5d2352be44a1be63674b"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "162e69a1600cbf4715598fcebdf39cb64f5346ce32dee63a95d3003c74afebbc"
 metafile = true
 
 [[files]]
